@@ -23,6 +23,7 @@ The solutions are organized by chapter. Each directory contains a Jupyter Notebo
 * `/ch03_linear_regression` - Diagnostic plots, multicollinearity analysis (VIF).
 * `/ch04_classification` - Comparing classifiers on the `Smarket` and `Default` datasets.
 * `/ch06_linear_model_selection` - Implementing Lasso to perform feature selection.
+* `/Main_Project` - The Main Project for detection heart-disease (with my comments why do i make each decision (I am currently working on it)) -> Project involves parts: Data Analysis, ML, statistics and Data Visualization
 
 ### 📈 Key Insights
 > [!IMPORTANT]
