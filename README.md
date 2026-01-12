@@ -1,4 +1,4 @@
-# ISLP Solutions with Main Project wrapping up my knowledge 🐍
+# ISLP book Solutions and Main Project 🐍
 
 This repository contains my solutions to the labs and exercises from the book **"An Introduction to Statistical Learning with applications in Python" (ISLP)**. This project serves as a comprehensive documentation of my journey through the mathematical and practical foundations of Machine Learning.
 
