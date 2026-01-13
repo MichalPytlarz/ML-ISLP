@@ -1,4 +1,4 @@
-# ISLP Solutions - Statistical Learning with Python 🐍
+# ISLP book Solutions and Main Project 🐍
 
 This repository contains my solutions to the labs and exercises from the book **"An Introduction to Statistical Learning with applications in Python" (ISLP)**. This project serves as a comprehensive documentation of my journey through the mathematical and practical foundations of Machine Learning.
 
@@ -23,7 +23,7 @@ The solutions are organized by chapter. Each directory contains a Jupyter Notebo
 * `/ch03_linear_regression` - Diagnostic plots, multicollinearity analysis (VIF).
 * `/ch04_classification` - Comparing classifiers on the `Smarket` and `Default` datasets.
 * `/ch06_linear_model_selection` - Implementing Lasso to perform feature selection.
-* `/Main_Project` - The Main Project for detection heart-disease (with my comments why do i make each decision (I am currently working on it)) -> Project involves parts: Data Analysis, ML, statistics and Data Visualization
+* `/Main_Project` - The Main Project for detection heart-disease (with my comments why do i make each decision) -> Project involves parts: Data Analysis, ML, statistics and Data Visualization
 
 ### 📈 Key Insights
 > [!IMPORTANT]
