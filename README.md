@@ -74,7 +74,3 @@ The following section highlights the model evaluation results and the underlying
 * **Predictive Drivers:** Based on the **Feature Importance** analysis, the top predictors include metrics such as maximum heart rate achieved, age, and asymptomatic chest pain types.
 * **Optimization:** Hyperparameter tuning significantly improved the model's ability to handle the trade-off between Precision and Recall, which is crucial for medical diagnostics.
 
-
-### 🚀 Getting Started
-1. Clone this repository: `[git clone https://github.com/your-username/islp-solutions.git](https://github.com/MichalPytlarz/ML-ISLP.git)`
-
