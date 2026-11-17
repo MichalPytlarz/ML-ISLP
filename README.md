@@ -23,7 +23,7 @@ The solutions are organized by chapter in "learning_process" Folder. Each direct
 * `/ch03_linear_regression` - Diagnostic plots, multicollinearity analysis (VIF).
 * `/ch04_classification` - Comparing classifiers on the `Smarket` and `Default` datasets.
 * `/ch06_linear_model_selection` - Implementing Lasso to perform feature selection.
-* `/Main_Project` - The Main Project for detection heart-disease (with my comments why do i make each decision) -> Project involves parts: Data Analysis, ML, statistics and Data Visualization
+* `/Main_Project` - Project for detection heart-disease (with justification of taken actions) -> Project involves : EDA, ML, statistics and visualization
 
 # 🏥 Main Project -> Heart Attack Risk Prediction
 
