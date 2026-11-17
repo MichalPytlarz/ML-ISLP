@@ -19,7 +19,7 @@ I implemented and analyzed the following statistical methods:
     * `matplotlib` & `seaborn` (diagnostic plotting and EDA)
 
 ### 📂 Repository Structure
-The solutions are organized by chapter. Each directory contains a Jupyter Notebook (`.ipynb`) with commented code and statistical interpretations:
+The solutions are organized by chapter in "learning_process" Folder. Each directory contains a Jupyter Notebook (`.ipynb`) with commented code and statistical interpretations:
 * `/ch03_linear_regression` - Diagnostic plots, multicollinearity analysis (VIF).
 * `/ch04_classification` - Comparing classifiers on the `Smarket` and `Default` datasets.
 * `/ch06_linear_model_selection` - Implementing Lasso to perform feature selection.
